@@ -2,7 +2,7 @@
   "name": "gestiondeusuarios.webapi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "serves.ts",
   "scripts": {
     "dev": "nodemon -w *.ts source/server.ts",
     "build": "rm -rf build/ && tsc",
